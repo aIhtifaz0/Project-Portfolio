@@ -1,0 +1,14 @@
+E:\Project Document\Repo\Portfolio Project\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project Document\Repo\Portfolio Project\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+E:\Project Document\Repo\Portfolio Project\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+E:\Project Document\Repo\Portfolio Project\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+E:\Project Document\Repo\Portfolio Project\Calculator\bin\Debug\net8.0\Calculator.exe
+E:\Project Document\Repo\Portfolio Project\Calculator\bin\Debug\net8.0\Calculator.deps.json
+E:\Project Document\Repo\Portfolio Project\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+E:\Project Document\Repo\Portfolio Project\Calculator\bin\Debug\net8.0\Calculator.dll
+E:\Project Document\Repo\Portfolio Project\Calculator\bin\Debug\net8.0\Calculator.pdb
+E:\Project Document\Repo\Portfolio Project\Calculator\obj\Debug\net8.0\Calculator.dll
+E:\Project Document\Repo\Portfolio Project\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+E:\Project Document\Repo\Portfolio Project\Calculator\obj\Debug\net8.0\Calculator.pdb
+E:\Project Document\Repo\Portfolio Project\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+E:\Project Document\Repo\Portfolio Project\Calculator\obj\Debug\net8.0\ref\Calculator.dll
